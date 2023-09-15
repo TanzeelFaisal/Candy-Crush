@@ -1,0 +1,112 @@
+﻿  Source.cpp
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(40,51): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(40,44): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(40,36): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(40,29): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(41,55): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(41,48): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(41,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(41,32): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(42,55): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(42,48): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(42,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(42,32): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(43,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(43,47): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(43,39): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(43,31): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(44,53): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(44,46): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(44,38): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(44,30): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(66,51): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tanzeel\source\repos\Candy Crush\Candy Crush\Source.cpp(67,51): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Candy Crush.vcxproj -> C:\Users\Tanzeel\source\repos\Candy Crush\Debug\Candy Crush.exe
